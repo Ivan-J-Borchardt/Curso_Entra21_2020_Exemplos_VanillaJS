@@ -1,4 +1,4 @@
-[English](./README.md) | [Português](./README-pt_BR) |[German](./README-de_DE)
+[English](./README.md) | [Português](./README-pt_BR.md) |[German](./README-de_DE.md)
 # Exemplos Curso VanillaJS 
 Exemplos de código JavaScript desenvolvidos para o curso Entra21 Ed. 2020 
 
