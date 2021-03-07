@@ -10,3 +10,9 @@ Nos exemplos são abordadas a estrutura da linguagem, sintaxe e principais estru
 ### Pré-requisitos
 - Todos os exemplos foram desenvolvidos para que rodem diretamente no navegador de internet. 
 - Para editar os códigos pode ser útil utilizar uma IDE, sugerimos o [VSCode](https://code.visualstudio.com/download) 
+
+### Tecnologias
+
+- HTML5
+- CSS
+- JavaScript 
