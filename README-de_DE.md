@@ -9,3 +9,8 @@ Eine Sammlung kurzer und didaktischer  JavaScript-Code Beispiele, die für die J
 ### Abhängigkeiten
 - Alle Beispiele wurden entwickelt um direkt im Internetbrowser ausgeführt zu werden.
 - Um die Codes zu bearbeiten kann es nützlich sein eine IDE zu verwenden. Wir empfehlen [VSCode](https://code.visualstudio.com/download).
+
+### Technologie
+- HTML5
+- CSS
+- JavaScript 
