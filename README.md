@@ -6,4 +6,6 @@ A collection of short and didactic examples of JavaScript code developed for the
 ![Badge](https://img.shields.io/badge/Course-JavaScript/ReactJs-blue)
 ![Badge](https://img.shields.io/badge/Year-2020-blue)
 
+### Requirements
+
 
