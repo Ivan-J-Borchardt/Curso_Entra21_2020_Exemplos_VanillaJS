@@ -1,4 +1,7 @@
 English | [Português](./README-pt_BR.md) | [German](./README-de_DE.md)
+
+---
+
 # VanillaJS Examples
 A collection of short and didactic examples of JavaScript code developed for the JavaScript classes of the Entra21 project. The examples cover the language structure, syntax and main data structures.
 
@@ -16,3 +19,12 @@ A collection of short and didactic examples of JavaScript code developed for the
 - HTML5
 - CSS
 - JavaScript 
+
+### Author
+Ivan J. Borchardt
+
+[![Linkedin Badge](https://img.shields.io/badge/-Ivan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-borchardt/)](https://www.linkedin.com/in/ivan-borchardt/) 
+[![Gmail Badge](https://img.shields.io/badge/-ivan.borchardt.cobol@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivan.borchardt.cobol@gmail.com)](mailto:ivan.borchardt.cobol@gmail.com)
+
+### License
+This project is under the MIT license.
