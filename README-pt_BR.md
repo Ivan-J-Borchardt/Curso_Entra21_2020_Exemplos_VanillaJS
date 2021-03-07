@@ -1,4 +1,7 @@
 [English](./README.md) | Português | [German](./README-de_DE.md)
+
+---
+
 # Exemplos VanillaJS 
 Coletânea de exemplos curtos e didáticos de código JavaScript desenvolvidos para as aulas de JavaScript do projeto Entra21. 
 Nos exemplos são abordadas a estrutura da linguagem, sintaxe e principais estruturas de dados.
