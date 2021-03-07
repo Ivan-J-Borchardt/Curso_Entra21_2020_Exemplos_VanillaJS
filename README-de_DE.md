@@ -5,3 +5,5 @@ Eine Sammlung kurzer und didaktischer  JavaScript-Code Beispiele, die für die J
 ![Badge](https://img.shields.io/badge/Projekt-Entra21-blue)
 ![Badge](https://img.shields.io/badge/Kurs-JavaScript/ReactJs-blue)
 ![Badge](https://img.shields.io/badge/Jahr-2020-blue)
+
+###Abhängigkeiten
