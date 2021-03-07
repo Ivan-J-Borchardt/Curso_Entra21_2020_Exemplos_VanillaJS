@@ -14,3 +14,12 @@ Eine Sammlung kurzer und didaktischer  JavaScript-Code Beispiele, die für die J
 - HTML5
 - CSS
 - JavaScript 
+
+### Autor
+Ivan J. Borchardt
+
+[![Linkedin Badge](https://img.shields.io/badge/-Ivan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-borchardt/)](https://www.linkedin.com/in/ivan-borchardt/) 
+[![Gmail Badge](https://img.shields.io/badge/-ivan.borchardt.cobol@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivan.borchardt.cobol@gmail.com)](mailto:ivan.borchardt.cobol@gmail.com)
+
+### Lizenz
+Dieses Projekt steht unter der MIT-Lizenz.
