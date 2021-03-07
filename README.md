@@ -7,5 +7,5 @@ A collection of short and didactic examples of JavaScript code developed for the
 ![Badge](https://img.shields.io/badge/Year-2020-blue)
 
 ### Requirements
-All examples were developed to run directly in the internet browser.
+All examples were developed to run directly in the internet browser. 
 To edit the codes it can be useful to use an IDE, we suggest [VSCode](https://code.visualstudio.com/download)
