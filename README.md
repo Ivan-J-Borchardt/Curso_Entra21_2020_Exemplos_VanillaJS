@@ -8,6 +8,7 @@ A collection of short and didactic examples of JavaScript code developed for the
 ![Badge](https://img.shields.io/badge/Project-Entra21-blue)
 ![Badge](https://img.shields.io/badge/Course-JavaScript/ReactJs-blue)
 ![Badge](https://img.shields.io/badge/Year-2020-blue)
+![GitHub](https://img.shields.io/github/license/ivan-j-borchardt/ExemplosCursoVanillaJS)
 
 ### Requirements
 - All examples were developed to run directly in the internet browser. 
