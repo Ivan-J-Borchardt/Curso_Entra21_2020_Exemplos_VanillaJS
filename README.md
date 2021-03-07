@@ -1,6 +1,6 @@
 English | [Português](./README-pt_BR.md) | [German](./README-de_DE.md)
 # VanillaJS Examples
-JavaScript code examples developed for the Entra21 Ed. 2020 course.
+A collection of short and didactic examples of JavaScript code developed for the JavaScript classes of the Entra21 project.
 
 ![Badge](https://img.shields.io/badge/Project-Entra21-blue)
 ![Badge](https://img.shields.io/badge/Course-JavaScript/ReactJs-blue)
