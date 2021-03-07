@@ -8,4 +8,4 @@ A collection of short and didactic examples of JavaScript code developed for the
 
 ### Requirements
 All examples were developed to run directly in the internet browser.
-To edit the codes it can be useful to use an IDE, we suggest [VSCode] (https://code.visualstudio.com/download)
+To edit the codes it can be useful to use an IDE, we suggest [VSCode](https://code.visualstudio.com/download)
