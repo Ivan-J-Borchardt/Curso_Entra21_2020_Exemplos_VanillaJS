@@ -22,7 +22,6 @@ Nos exemplos são abordadas a estrutura da linguagem, sintaxe e principais estru
 - JavaScript 
 
 ### Autor
----
 Ivan J. Borchardt
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ivan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-borchardt/)](https://www.linkedin.com/in/ivan-borchardt/) 
