@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <script>
+
+        //var, let, const 
+
+        //var tem um problema de escopo
+
+        function testeVar(){
+            //Variável de escopo funcional (só existe dentro da função)
+            var num = 20 
+            console.log("num dentro da function: " + num);
+            
+            //Variável de escopo global (window.index2)
+            index2 = 2
+            console.log("index2 dentro da function: " + index2);
+
+
+            //Variáveis declaradas com var dentro de FOR, IF ou WHILE, vazam o bloco 
+            for (var index = 0; index < 5; index++) {
+                console.log("dentro do FOR: " + index);
+            }
+            console.log("fora do for: " + index);
+
+            if (true) {
+                var teste = 3 
+            }
+            console.log("Fora do IF: " + teste);
+
+            var entrou = true
+            while (entrou) {
+                var altura = 53
+                entrou = false
+            }
+            console.log("Fora do While: " + altura);
+
+            //Variavel de escopo de bloco: variaveis declaradas com let não vazam o bloco...
+            if (true) {
+                let teste2 = 3 
+                const PI = 3.14
+            }
+            // --- console.log("Teste2 Fora do IF: " + teste2); //ReferenceError: teste2 is not defined
+            // --- console.log("pi fora do bloco: " + PI); //Erro: ReferenceError: PI is not defined
+
+        }
+
+        testeVar()
+        console.log("index2 fora da function" + index2);
+        
+
+        //isso irá gerar um erro: Uncaught ReferenceError: num is not defined
+        //---- console.log("num fora da function: " + num);        
+        //Conclusão: No escopo de uma função o var funciona corretamente...
+
+
+        /*-----------------------------------------------------------------
+          const...
+        -------------------------------------------------------------------*/
+
+        //A palavra reservada const serve para criar constantes na memória, 
+        //isso significa que a "variável" criada não poderá ser reatribuida
+
+        const PI = 3.14
+        //PI = 3.15 //ERRO: Uncaught TypeError: Assignment to constant variable.
+
+        console.log(PI);
+        
+        //const com arrays e objetos
+        const x = [1, 2, 3]
+
+        x.push(4)
+        console.log(x);
+
+        x[4] = 8
+        console.log(x);
+
+        x[4] = 9
+        console.log(x);
+
+        //--- x = [1,4,3] //ERRO: Uncaught TypeError: Assignment to constant variable.
+
+
+        const aviador = {
+            nome: "Santos Dumont",
+            aeronave: "14 BIS", 
+            data: "23 de outubro de 1906" 
+        }
+
+        aviador.nome = "Alberto Santos Dumont"
+
+        console.log(aviador);
+
+        //--- aviador = {} //ERRO: Uncaught TypeError: Assignment to constant variable.
+        
+
+        //içamento de variáveis (hoisting)
+
+        //--- tempo = 40
+        console.log("usando a variavel antes de sua declaração: " + tempo);
+        imprimirTempo()
+        var tempo = 35
+
+        console.log("usando a variavel depois de sua declaração/atribuição: " + tempo);
+
+
+        function imprimirTempo(){
+            console.log("imprimir tempo: " + tempo);
+        }
+
+
+
+    </script>
+
+
+</body>
+</html>

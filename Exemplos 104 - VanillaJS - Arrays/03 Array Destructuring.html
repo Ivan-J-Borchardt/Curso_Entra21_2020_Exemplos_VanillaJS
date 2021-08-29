@@ -45,6 +45,15 @@
     // ES2016 - não implementado em Firefox 47a01
     ({ a, b, ...rest } = { a: 1, b: 2, c: 3, d: 4 });
 
+    //Concatenação com destructuring 
+    var num = [1, 2, 3, 4];
+    num = [...num, 5];
+    console.log('17 - Num concatenado ' + num);
+
+    num2 = [6, 7, 8];
+    num = [...num, num2];
+    console.log('18 - Num concatenado ' + num);
+
 
 </script>
 

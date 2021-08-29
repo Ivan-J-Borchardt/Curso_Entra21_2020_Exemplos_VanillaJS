@@ -137,6 +137,23 @@
     var citrus2 = fruits2.slice(1, 3);
     console.log('20 - Após slice2: '  + citrus2);
 
+    //Ordenando um Array de dados numéricos
+    var idades = [3, 10, 2, 5, 12, 9, 7] 
+    idades.sort(ordena);
+    
+    function ordena(a, b){
+        if (a > b) {
+            return 1
+        }
+        if (a < b){
+            return -1
+        }
+        return 0
+    }
+
+    console.log('21 - Sort de array numérico: ' + idades);
+
+
 </script>
 
 </html>
